@@ -1,1 +1,1 @@
-# CI/CD for cloud run GCP
+# CI CD for cloud run GCP
