@@ -15,7 +15,7 @@ steps:
   - '--image'
   - 'gcr.io/assignment-rk-df/SERVICE-NAME:$COMMIT_SHA'
   - '--region'
-  - 'REGION(us-central1)'
+  - 'us-central1'
   - '--platform'
   - 'managed'
 images:
