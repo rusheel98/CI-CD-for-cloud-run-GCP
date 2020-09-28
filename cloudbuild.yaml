@@ -13,7 +13,7 @@ steps:
   - 'deploy'
   - 'sample-flask'
   - '--image'
-  - 'gcr.io/assignment-rk-df/SERVICE-NAME:$COMMIT_SHA'
+  - 'gcr.io/assignment-rk-df/sample-flask:$COMMIT_SHA'
   - '--region'
   - 'us-central1'
   - '--platform'
